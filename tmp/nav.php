@@ -10,3 +10,8 @@
         </div>
     </div>
 </nav>
+<script>
+    $(document).ready(function(){
+        $('.sidenav').sidenav();
+    });
+</script>
