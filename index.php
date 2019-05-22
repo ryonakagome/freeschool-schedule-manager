@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col s12">
-                    <form action="login.php" method="POST">
+                    <form action="module/modulelogin.php" method="POST">
                         <h4>ログイン</h4>
                         <input type="text" name="uid" class="validate" required>
                         <h4>パスワード</h4>
