@@ -2,7 +2,7 @@
     <div class="container">
         <div class="nav-wrapper">
             <a href="#!" class="brand-logo">FMS</a>
-            <a href="#" data-targer="mobilemenu" class="sidenav-trigger"><i class="material-icons">menu</a>
+            <a href="#" data-targer="mobilemenu" class="sidenav-trigger"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
                 <li><a href="usermanage.php">ユーザー管理</a></li>
                 <li><a href="attendmanage.php">出席管理</a></li>
